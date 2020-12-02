@@ -1,0 +1,7 @@
+{
+"name": "DigitalAssetNews",
+"description": "The official Staking Pool of Digital Asset News. Powered by Microsoft Azure making it Reliable, Trusted & Proven.",
+"ticker": "DNEWS",
+"homepage": "https://danteachescrypto.com/cardano-staking-pool/",
+"extended": "https://raw.githubusercontent.com/digitalassetnews/pool/main/2.json"
+}
