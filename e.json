@@ -2,7 +2,6 @@
   "adapools": {
 		"url_png_icon_64x64": "https://raw.githubusercontent.com/digitalassetnews/_/main/icon.png",
 		"url_png_logo": "https://raw.githubusercontent.com/digitalassetnews/_/main/logo.jpg",
-	  	"pool_claim": "fa048f22bec6b0197d46923d2012023d",
 		"social": {
 		"twitter_handle": "newsasset",
 		"youtube_handle": "DigitalAssetNewsDAN"
